@@ -1,4 +1,5 @@
-<h1 align="center">Welcome to my profile💻</h1>
+<h2 align="center">💻Welcome to my profile💻</h2>
+<h2 align="center">I am a programming student👨🏻‍💻 and passionate about Hacking</h2>
 <h4 align="left">Languages and Tools:</h4>
 <p
 <a href="https://www.cprogramming.com/" target="_blank"> 
