@@ -9,5 +9,4 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/c
 </p>
 
 ## Contact
-[![testers](https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/social/telegram.svg)]
-(https://t.me/UserM01000)
+![testers](https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/social/telegram.svg)
