@@ -5,5 +5,4 @@
 <img
 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
 <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-<a <img src="https://img.icons8.com/office/80/000000/windows-10.png" alt="Windows" width="40" height="40"/>
 </p>
