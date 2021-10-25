@@ -12,7 +12,4 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/c
 
 ## Contact
 [![testers](https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/social/telegram.svg)](https://t.me/UserM01000)
-<a href="https://github.com"><img title="stast" src="https://estruyf-github.azurewebsites.net/api/VisitorHit?user=UserM01000&repo=github-visitor-badge&countColorcountColor&countColor=Red" width="120" height="115"></a>
-<--XD
-![footer](https://estruyf-github.azurewebsites.net/api/VisitorHit?user=UserM01000&repo=github-visitor-badge&countColorcountColor&countColor=Red)
--->
+<a href="https://github.com"><img title="stast" src="https://estruyf-github.azurewebsites.net/api/VisitorHit?user=UserM01000&repo=github-visitor-badge&countColorcountColor&countColor=Red" width="120" height="31"></a>
